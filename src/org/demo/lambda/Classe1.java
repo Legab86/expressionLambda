@@ -17,6 +17,17 @@ public class Classe1 {
 		
 		System.out.println("--------------------------------------------------------------");
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 //		exemple2
 		
 		String[] collection1 = {"Banane", "Orange", "Pomme", "Fraise", "Ananas"};
